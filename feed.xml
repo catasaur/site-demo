@@ -3,10 +3,10 @@
   <channel>
     <title>Jekyll Advance</title>
     <description></description>
-    <link>http://0.0.0.0:4000/site-dgra/</link>
-    <atom:link href="http://0.0.0.0:4000/site-dgra/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jan 2024 19:58:36 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jan 2024 19:58:36 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/site-demo/</link>
+    <atom:link href="http://0.0.0.0:4000/site-demo/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Jan 2024 12:49:47 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2024 12:49:47 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -31,7 +31,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/site-dgra/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/site-demo/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -45,7 +45,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/site-dgra/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/site-demo/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -85,8 +85,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Sep 2018 05:22:42 +0000</pubDate>
-        <link>http://0.0.0.0:4000/site-dgra/blog/2018-09-13-hosting-your-static-site/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/site-dgra/blog/2018-09-13-hosting-your-static-site/</guid>
+        <link>http://0.0.0.0:4000/site-demo/blog/2018-09-13-hosting-your-static-site/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/site-demo/blog/2018-09-13-hosting-your-static-site/</guid>
         
         
         <category>Hosting</category>
