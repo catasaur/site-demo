@@ -5,12 +5,59 @@
     <description></description>
     <link>http://0.0.0.0:4000/site-demo/</link>
     <atom:link href="http://0.0.0.0:4000/site-demo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jan 2024 12:49:47 +0000</pubDate>
-    <lastBuildDate>Tue, 09 Jan 2024 12:49:47 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2024 14:16:57 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2024 14:16:57 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Hosting Your Static Site</title>
+        <title>Example community event</title>
+        <description>&lt;h2 id=&quot;bringing-community-together&quot;&gt;Bringing community together&lt;/h2&gt;
+
+&lt;p&gt;This thing is happening. We can add some details, pictures, whatever we want on this page.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/site-demo/events/2024-02-01-community-event/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/site-demo/events/2024-02-01-community-event/</guid>
+        
+        
+        <category>Event</category>
+        
+        <category>DG Community Rooms</category>
+        
+      </item>
+    
+      <item>
+        <title>Food Trucks: Jan 2024</title>
+        <description>&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Date&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Truck&lt;/th&gt;
+      &lt;th&gt;Order link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;yyyy-mm-dd&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Trucky McTruckFace&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;7&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;Last updated yyyy/mm/dd&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/site-demo/events/2024-01-01-jan-food-trucks/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/site-demo/events/2024-01-01-jan-food-trucks/</guid>
+        
+        
+        <category>Food Trucks</category>
+        
+      </item>
+    
+      <item>
+        <title>Example longer post with authors</title>
         <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
 
 &lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
@@ -85,13 +132,13 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Sep 2018 05:22:42 +0000</pubDate>
-        <link>http://0.0.0.0:4000/site-demo/blog/2018-09-13-hosting-your-static-site/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/site-demo/blog/2018-09-13-hosting-your-static-site/</guid>
+        <link>http://0.0.0.0:4000/site-demo/events/2018-09-13-hosting-your-static-site/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/site-demo/events/2018-09-13-hosting-your-static-site/</guid>
         
         
-        <category>Hosting</category>
+        <category>Food Trucks</category>
         
-        <category>Development</category>
+        <category>DG Community Rooms</category>
         
       </item>
     
